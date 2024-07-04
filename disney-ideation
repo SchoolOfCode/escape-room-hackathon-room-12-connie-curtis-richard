@@ -13,4 +13,17 @@ What puzzles can we do. Hidden object, have to move or click on things to find a
 Input some sort of code.
 Maybe you could have a room where theres a picture on the wall of animals in an order. And buttons oyu ca interact with that make sounds relating to those animals. Press buttons in correct order and get the code.
 
+Haunted Mansion?
+Dungeon
+
+
 So central room has a single puzzle that is very simple so this can be the MVP if needed.
+
+Engineers Room?
+
+We decided on Huanted House theme - 
+User starts in central room and must find an object to let them into the other room. This is the MVP. Possibly just an obvious button that opens all three doors to the other rooms. When pressed, a ghost appears that says he's going get them in a certain time.
+User progresses into the other rooms as they please.
+Each room has a simple puzzle where the reward for solving it is a unique key.
+User must return to central room with all three keys - one from each room to escape the game.
+
