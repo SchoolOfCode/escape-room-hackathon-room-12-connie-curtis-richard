@@ -1,6 +1,6 @@
-Ideas
+STIdeas
 
-Blue Sky Think
+BLUE SKY THINKING
 Ideas
 
 
@@ -19,11 +19,15 @@ Dungeon
 
 So central room has a single puzzle that is very simple so this can be the MVP if needed.
 
-Engineers Room?
+REALIST ROOM
 
-We decided on Huanted House theme - 
+We decided on Haunted House theme - 
 User starts in central room and must find an object to let them into the other room. This is the MVP. Possibly just an obvious button that opens all three doors to the other rooms. When pressed, a ghost appears that says he's going get them in a certain time.
 User progresses into the other rooms as they please.
 Each room has a simple puzzle where the reward for solving it is a unique key.
 User must return to central room with all three keys - one from each room to escape the game.
 
+THE CRITIC ROOM
+
+Lack of experience with Scratch for all three of us.
+Lack of GitHub experience
